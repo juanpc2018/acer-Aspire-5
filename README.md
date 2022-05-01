@@ -29,7 +29,7 @@ go for i5 if you can.
 has the cheapest Kingston M.2 256GB NVMe,
 has 4GB of RAM, Kingston 3200,
 has 4GB of slower ram 2666, Samsung, soldered to the mobo.
-
+only 1 ram slot.
 thats why is cheap.
 
 The screen is FullHD 1920x1080 15.x" very nice, for a cheap machine the screen is nice.

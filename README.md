@@ -97,3 +97,10 @@ PD. dont grab the screen with 1 hand when open, can bent the screen, alumimium p
 
 at this price point i dont complain the lack of Thunderbolt,
 but a more pricey laptop without Thunderbolt is a NoGo for me, better an Intel NUC8 or better with TB, or a Mac.
+
+The Sound:
+if you want High quality sound you buy a Focusrite Clarett usb, or similar, end of story.
+laptop sound / speakers, older macbook pro, maybe 2010, i canr remember, the sound was underneath the keyboard, sound output comes from between the key space, some songs had very impresive sound, "designed for that",
+this are stereo speakers, front facing, requires to be in a table to make highs bounce to you,
+in your legs sounds is opaque, high frequency is rolled off.
+but seems nice speakers when used as intended in a glass table or wood table.

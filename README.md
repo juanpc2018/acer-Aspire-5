@@ -33,11 +33,12 @@ has 4GB of slower ram 2666, Samsung, soldered to the mobo.
 thats why is cheap.
 
 The screen is FullHD 1920x1080 15.x" very nice, for a cheap machine the screen is nice.
-there is always the dilema, to buy a smaller oled HQ screen, or a big lower quality but acceptable Quality.
+there is always the dilema, to buy a smaller oled high quality screen, or a big but acceptable Quality.
 Big screen, closer makes you feel inmersed more in the OS.
-Purchasing HD screen 1300x768 today is absurd.
+if you do graphic design, you need the oled, but for most things, big is better.
+Purchasing HD screen 1300x768 is absurd today.
 
-has silver looks with black keys, very similar to Apple MacBookPro from 2013,
+has silver looks with black keys, similar to Apple MacBookPro from 2013,
 but keys does Not feel as good quality as Apple.
 dilema: buy used Apple or New acer.
 

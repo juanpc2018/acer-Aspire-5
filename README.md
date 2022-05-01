@@ -77,3 +77,5 @@ i wish keys were a bit better quality like Mac, keys are click semi-silent type,
 everything works ok but... i regret purchasing i3, i wish i had the i5.
 i3 never again. leason lerned.
 in a very cold place like the North Pole, the i3 would be nice, generates more heat.
+
+Trackpad is nice quality, but i wish it was on the right side, where the black Aspire 5 sticker is.

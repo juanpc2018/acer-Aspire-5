@@ -67,12 +67,13 @@ Windows is very complicated because the Activation Key License Security.
 
 comes with W10 RTM OEM CoreSingleLanguage.
 thats the key stored in the UEFI of the machine.
-if you want another language, you need to download a new OEM installer "complicated."
+if you want another language, you need to download a new W10 OEM Single Language installer, do a clean install, "complicated."
 Windows makes simple thing complicated.
 Linux works Ok Kernel5 has all the drivers, except Optane.
 Works Ok.
 
-i wish keys were a bit better quality like Mac,
+i wish keys were a bit better quality like Mac, keys are click semi-silent type, but travel feels, plastic feels strange.
+
 everything works ok but... i regret purchasing i3, i wish i had the i5.
 i3 never again. leason lerned.
-in a cold place the i3 would be nice, it generates more heat.
+in a very cold place like the North Pole, the i3 would be nice, generates more heat.

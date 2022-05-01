@@ -82,4 +82,5 @@ Trackpad is nice, but i wish it was on the right side, where the black Aspire 5 
 
 i like its silver with black keys, and blsck screen border.
 
-there are other brands with keys silver... dont like that.
+there are other brands with silver keyboard.. dont like that.
+others all black, better than all silver but still strange.

@@ -79,3 +79,7 @@ i3 never again. leason lerned.
 in a very cold place like the North Pole, the i3 would be nice, generates more heat.
 
 Trackpad is nice, but i wish it was on the right side, where the black Aspire 5 sticker is.
+
+i like its silver with black keys, and blsck screen border.
+
+there are other brands with keys silver... dont like that.

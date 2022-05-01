@@ -47,12 +47,12 @@ allows to fine tune fan speed manually.
 If it had a Linux version, purchasing old Apple would be more interesting.
 
 has intel RST with Optane,
-Optane is a blade that cuts both ways,
+Optane is a sword that cuts both ways,
 Optane Raid tech, allos to extend the life of the main drive by using the smaller more, avoiding wear to the main drive,
 a cheap QLC can last as long as TLC, and Optane+TLC last as long has 2-Bit MLC.
 
-also increase speed when combined with a small HDD, SS, because Optane is faster M.2.
-That Tech i think it was invented by Apple in 2014 called Fusion Drive.
+also increase speed when combined with a slow HDD, SSD M.2 QLC, because Optane is faster M.2.
+i think it was invented by Apple in 2014 called Fusion Drive.
 MacMini 2014 with Fusion Drive had a 800MB/s 128GB PCIe drive + Slow 1TB 5400rpm drive.
 
 The Ugly:

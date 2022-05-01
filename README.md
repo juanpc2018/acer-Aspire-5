@@ -7,11 +7,11 @@ The Good, The Bad & The Ugly.
 The Good: Price. Nice Bang for the $$.
 nice TouchPad, better than Microsoft All-In-One Keyboard.
 
-The bottom is plastic painted silver,
-the top is true aluminium...
+The bottom cover is plastic painted silver,
+the top lid is true aluminium...
 plastic is Not cold to the touch.
 when you put the laptop in your legs is Not cold.
-Aluminium top cover is cold to the touch.
+Aluminium top cover is very cold to the touch.
 
 The Bad: 
 there are different models,
@@ -22,13 +22,13 @@ means your legs get hot, and plastic does Not dissipate heat as good as aluminiu
 eats more energy doing the same thing.
 No HW h264 video aceleration/decoding is BAD.
 
-avoid i3 model, 
+avoid i3, 
 its hard because the price.
 go for i5 if you can.
 
 has the cheapest Kingston M.2 256GB NVMe,
-has 4GB of RAM, Kingston,
-has 4GB of slower ram, Samsung, soldered to the mobo.
+has 4GB of RAM, Kingston 3200,
+has 4GB of slower ram 2666, Samsung, soldered to the mobo.
 
 thats why is cheap.
 

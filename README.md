@@ -104,3 +104,7 @@ laptop sound / speakers, older macbook pro, maybe 2010, i canr remember, the sou
 this are stereo speakers, front facing, requires to be in a table to make highs bounce to you,
 in your legs sounds is opaque, high frequency is rolled off.
 but seems nice speakers when used as intended in a glass table or wood table.
+
+The RJ45 Ethernet port designed with a sping to avoid damage, laptop is very thin, there is no other way,
+if you like RJ45 instead of Wi-Fi.
+

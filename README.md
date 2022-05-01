@@ -13,6 +13,8 @@ plastic is Not cold to the touch.
 when you put the laptop in your legs is Not cold.
 Aluminium top cover is very cold to the touch.
 the silver plastic that surrounds the black keys, next to the trackpad, where you rest your arm when touching the trackpad is also plastic, does Not feel as cold when resting the arm without shirt or fabric, but is colder than the bottom, becuase the heat disipation design.
+Not as cold as the aluminium lid cover,
+Not as hot as the bottom cover.
 
 The Bad: 
 there are different models,

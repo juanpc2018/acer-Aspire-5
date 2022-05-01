@@ -94,3 +94,6 @@ there are other brands with silver keyboard.. dont like that.
 others all black, better than all silver but still strange.
 
 PD. dont grab the screen with 1 hand when open, can bent the screen, alumimium panel can tolerate so much, but No more, is Not a 6mm aluminium.
+
+at this price point i dont complain the lack of Thunderbolt,
+but a more pricey laptop without Thunderbolt is a No Go for me.

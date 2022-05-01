@@ -5,7 +5,7 @@ Review
 The Good, The Bad & The Ugly.
 
 The Good: Price. Nice Bang for the $$.
-nice TouchPad, better than Microsoft All-In-One Keyboard, so good i regret purchasing 2x Microsoft All-In-One keyboard.
+nice TouchPad, better than Microsoft All-In-One Keyboard, so good i regret purchasing 2x Microsoft All-In-One keyboards.
 
 The bottom cover is plastic painted silver,
 the top lid is true aluminium...

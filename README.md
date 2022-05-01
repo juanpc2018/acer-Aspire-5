@@ -35,6 +35,10 @@ has 4GB of slower ram 2666, Samsung, soldered to the mobo.
 only 1 ram slot.
 thats why is cheap.
 
+The Ac-Dc power in jack is small, plug technology, very interior to Apple MagSafe, or Microsoft Surace 2 Pro magnetic connector.
+probably that is the weakest, most dangerous point.
+
+The Good: 
 The screen is FullHD 1920x1080 15.x" very nice, for a cheap machine the screen is nice.
 there is always the dilema, to buy a smaller oled high quality screen, or a big but acceptable Quality.
 Big screen, closer makes you feel inmersed more in the OS.

@@ -96,4 +96,4 @@ others all black, better than all silver but still strange.
 PD. dont grab the screen with 1 hand when open, can bent the screen, alumimium panel can tolerate so much, but No more, is Not a 6mm aluminium.
 
 at this price point i dont complain the lack of Thunderbolt,
-but a more pricey laptop without Thunderbolt is a NoGo for me, better an Intel NUC8 or better with TB, or a Real Mac.
+but a more pricey laptop without Thunderbolt is a NoGo for me, better an Intel NUC8 or better with TB, or a Mac.

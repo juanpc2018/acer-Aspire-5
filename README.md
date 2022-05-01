@@ -35,7 +35,7 @@ has 4GB of slower ram 2666, Samsung, soldered to the mobo.
 only 1 ram slot.
 thats why is cheap.
 
-The Ac-Dc power in jack is small, plug technology, very interior to Apple MagSafe, or Microsoft Surace 2 Pro magnetic connector.
+The Ac-Dc power in jack is small, plug technology, very inferior to Apple MagSafe, or Microsoft Surace 2 Pro magnetic connector.
 probably that is the weakest, most dangerous point.
 but cable has L-connector that lowers the risk.
 

@@ -92,3 +92,5 @@ i like its silver with black keys, and blsck screen border.
 
 there are other brands with silver keyboard.. dont like that.
 others all black, better than all silver but still strange.
+
+PD. dont grab the screen with 1 hand when open, can bent the screen, alumimium panel can tolerate so much, but No more, is Not a 6mm aluminium.

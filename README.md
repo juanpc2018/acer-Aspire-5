@@ -37,6 +37,7 @@ thats why is cheap.
 
 The Ac-Dc power in jack is small, plug technology, very interior to Apple MagSafe, or Microsoft Surace 2 Pro magnetic connector.
 probably that is the weakest, most dangerous point.
+but cable has L-connector that lowers the risk.
 
 The Good: 
 The screen is FullHD 1920x1080 15.x" very nice, for a cheap machine the screen is nice.
